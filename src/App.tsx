@@ -30,14 +30,26 @@ export default function App() {
         onToggleSidebar={() => setIsSidebarOpen(!isSidebarOpen)}
       />
       
-      <div className="flex">
+      <div className="flex relative">
         <Sidebar 
           currentArticle={currentArticle}
           onArticleSelect={setCurrentArticle}
           isOpen={isSidebarOpen}
         />
         
-        <main className={`flex-1 transition-all duration-300 ${isSidebarOpen ? 'ml-64' : 'ml-0'}`}>
+        <main 
+          className={`flex-1 transition-all duration-300 ${isSidebarOpen ? 'ml-64' : 'ml-0'} relative z-0`}
+          onClick={(e) => {
+            // Close sidebar when clicking on main content area
+            if (isSidebarOpen) {
+              const target = e.target as HTMLElement;
+              // Only close if clicking directly on main content, not on interactive elements
+              if (target.tagName === 'MAIN' || target.closest('article')) {
+                setIsSidebarOpen(false);
+              }
+            }
+          }}
+        >
           <ArticleContent article={articles[currentArticle]} />
         </main>
       </div>

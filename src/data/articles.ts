@@ -26,6 +26,267 @@ The Kikuyu people have a deep understanding of their environment, particularly t
       }
     ]
   },
+
+  'african-peoples-overview': {
+    title: 'African Peoples & Classifications',
+    subtitle: 'Ethnic Groups and Linguistic Families',
+    lastUpdated: 'February 2026',
+    contributors: ['Anthropologists', 'Linguists', 'Historians'],
+    content: `Africa is home to an incredible diversity of ethnic groups and peoples, each with unique cultures, languages, and traditions. These groups are classified into major linguistic and ethnic families based on shared language roots, migration patterns, and cultural similarities.
+
+This page provides an overview of major African ethnic groups organized by their primary classifications: Bantu, Cushitic, Semitic (Afro-Asiatic), Nilotic, and other major groups.`,
+    sections: [
+      {
+        heading: 'Major Classifications',
+        content: `African ethnic groups are primarily classified by linguistic families:
+
+BANTU PEOPLES: The largest group, spanning Central, Eastern, and Southern Africa. Bantu languages share common roots and the peoples share migration history from West-Central Africa.
+
+CUSHITIC PEOPLES: Primarily in the Horn of Africa and parts of East Africa. Speakers of Cushitic languages, part of the Afro-Asiatic family.
+
+SEMITIC PEOPLES: Found in North Africa and the Horn of Africa. Speakers of Semitic languages (Arabic, Amharic, Tigrinya, etc.), also part of Afro-Asiatic family.
+
+NILOTIC PEOPLES: Inhabit areas around the Nile River basin and East African Great Lakes region. Speakers of Nilotic languages.
+
+WEST AFRICAN GROUPS: Including Mande, Kwa, Gur, and Atlantic-Congo language speakers.
+
+KHOISAN PEOPLES: Indigenous to Southern Africa, known for click consonants in their languages.`
+      },
+      {
+        heading: 'East African Bantu Peoples',
+        content: `KENYA:
+• Kikuyu (Gĩkũyũ) - Central Kenya, largest ethnic group in Kenya
+• Luhya - Western Kenya
+• Kamba - Eastern Kenya
+• Meru - Mount Kenya region
+• Embu - Eastern slopes of Mount Kenya
+• Kisii (Abagusii) - Western Kenya
+• Mijikenda - Coastal Kenya
+
+TANZANIA:
+• Sukuma - Northwestern Tanzania, largest group in Tanzania
+• Chagga - Kilimanjaro region
+• Haya - Northwestern Tanzania
+• Nyamwezi - Central Tanzania
+• Makonde - Southeast Tanzania
+• Zaramo - Coastal region around Dar es Salaam
+
+UGANDA:
+• Baganda - Central Uganda, largest group in Uganda
+• Banyankole - Western Uganda
+• Basoga - Eastern Uganda
+• Bakiga - Southwestern Uganda
+• Batoro - Western Uganda`
+      },
+      {
+        heading: 'Southern African Bantu Peoples',
+        content: `SOUTH AFRICA:
+• Zulu - KwaZulu-Natal, largest group in South Africa
+• Xhosa - Eastern Cape
+• Sotho (Basotho) - Free State and Lesotho
+• Tswana - Northern regions and Botswana
+• Pedi (Bapedi) - Limpopo Province
+• Tsonga - Limpopo and Mpumalanga
+• Swazi - Mpumalanga and Eswatini
+• Venda - Limpopo Province
+• Ndebele - Mpumalanga and Limpopo
+
+ZIMBABWE:
+• Shona - Majority group in Zimbabwe
+• Ndebele (Matabele) - Western Zimbabwe
+
+MOZAMBIQUE:
+• Makua - Northern Mozambique
+• Tsonga - Southern Mozambique
+• Sena - Central Mozambique
+
+BOTSWANA:
+• Tswana - Majority group
+
+ZAMBIA & MALAWI:
+• Bemba - Northern Zambia
+• Chewa - Eastern Zambia and Malawi
+• Tonga - Southern Zambia
+• Lozi - Western Zambia`
+      },
+      {
+        heading: 'Central African Bantu Peoples',
+        content: `DEMOCRATIC REPUBLIC OF CONGO:
+• Luba - Southeastern DRC
+• Kongo - Western DRC
+• Mongo - Central DRC
+• Lunda - Southern DRC
+
+RWANDA & BURUNDI:
+• Hutu - Agricultural Bantu people, majority in both countries
+• Tutsi - Traditionally pastoralist, significant minority
+
+CAMEROON & EQUATORIAL GUINEA:
+• Fang - Southern Cameroon and Equatorial Guinea
+• Beti - Central Cameroon
+• Bulu - Southern Cameroon
+
+ANGOLA:
+• Ovimbundu - Central highlands
+• Kimbundu - North-central Angola
+• Bakongo - Northwestern Angola`
+      },
+      {
+        heading: 'Cushitic Peoples',
+        content: `ETHIOPIA:
+• Oromo - Largest ethnic group in Ethiopia
+• Somali - Eastern Ethiopia (Ogaden region)
+• Sidama - Southern Ethiopia
+• Afar - Northeast Ethiopia and Djibouti
+• Hadiya - Southern Ethiopia
+• Agaw - Northern and Central Ethiopia
+
+SOMALIA & DJIBOUTI:
+• Somali - Major clans include Hawiye, Darod, Dir, Isaaq, Rahanweyn
+• Afar - Djibouti and northeastern Ethiopia
+
+KENYA:
+• Somali - Northeastern Kenya
+• Borana (Oromo subgroup) - Northern Kenya
+• Rendille - Northern Kenya
+• El Molo - Lake Turkana region (smallest ethnic group in Kenya)
+
+ERITREA:
+• Afar - Eastern lowlands
+• Saho - Eastern Eritrea
+• Beja - Northwestern Eritrea (also in Sudan)`
+      },
+      {
+        heading: 'Semitic/Afro-Asiatic Peoples',
+        content: `NORTH AFRICA (Arabic-speaking):
+• Egyptians - Egypt
+• Libyans - Libya
+• Tunisians - Tunisia
+• Algerians - Algeria
+• Moroccans - Morocco
+• Mauritanians - Mauritania
+
+HORN OF AFRICA:
+• Amhara - Ethiopian highlands, speakers of Amharic
+• Tigrayans/Tigrinya - Northern Ethiopia and Eritrea
+• Gurage - Southern Ethiopia
+
+BERBER/AMAZIGH PEOPLES (North Africa):
+• Kabyle - Algeria
+• Riffian - Morocco
+• Shilha - Morocco
+• Tuareg - Sahara Desert (Mali, Niger, Algeria, Libya)`
+      },
+      {
+        heading: 'Nilotic Peoples',
+        content: `EASTERN NILOTIC:
+• Maasai - Kenya and Tanzania, pastoralists
+• Turkana - Northwestern Kenya
+• Samburu - Central Kenya
+• Karamojong - Northeastern Uganda
+• Teso - Eastern Uganda and Western Kenya
+• Kalenjin - Western Kenya (includes Nandi, Kipsigis, Pokot)
+
+WESTERN NILOTIC:
+• Luo - Western Kenya, Northern Tanzania, Eastern Uganda
+• Dinka - South Sudan, largest ethnic group in South Sudan
+• Nuer - South Sudan and Ethiopia
+• Shilluk - South Sudan
+• Acholi - Northern Uganda and South Sudan
+• Alur - Northwestern Uganda and DRC
+
+SOUTHERN NILOTIC:
+• Kalenjin groups (also classified as Eastern Nilotic)
+• Datooga - Tanzania`
+      },
+      {
+        heading: 'West African Peoples',
+        content: `NIGERIA (Most populous African country):
+• Hausa - Northern Nigeria (Afro-Asiatic/Chadic)
+• Yoruba - Southwestern Nigeria (Niger-Congo)
+• Igbo - Southeastern Nigeria (Niger-Congo)
+• Fulani (Fula) - Spread across West Africa (Niger-Congo)
+• Ijaw - Niger Delta
+• Kanuri - Northeastern Nigeria (Nilo-Saharan)
+• Tiv - Central Nigeria
+• Ibibio - Southern Nigeria
+
+GHANA:
+• Akan (includes Ashanti, Fante) - Southern and Central Ghana
+• Ewe - Southeastern Ghana and Togo
+• Ga-Dangme - Greater Accra region
+• Dagomba - Northern Ghana
+
+MALI:
+• Bambara (Bamana) - Central Mali, largest group
+• Fulani - Throughout Mali
+• Dogon - Central Mali
+• Songhai - Along Niger River
+• Tuareg - Northern Mali
+
+SENEGAL & GAMBIA:
+• Wolof - Largest group in Senegal
+• Fulani - Throughout region
+• Serer - West-central Senegal
+• Mandinka - Gambia and southern Senegal
+
+IVORY COAST (Côte d'Ivoire):
+• Akan groups - Southern region
+• Krou peoples - Western region
+• Mande peoples - Northern region
+
+BURKINA FASO:
+• Mossi - Central Burkina Faso, largest group
+• Fulani - Throughout country
+• Bobo - Western Burkina Faso`
+      },
+      {
+        heading: 'Khoisan Peoples',
+        content: `SOUTHERN AFRICA:
+• San (Bushmen) - Botswana, Namibia, South Africa, Angola
+  - Includes: !Kung, Ju/'hoansi, G/wi, //Gana
+• Khoi (Khoikhoi/Hottentots) - South Africa and Namibia
+  - Includes: Nama, Damara
+
+These are among Africa's most ancient peoples, with genetic studies suggesting they represent some of the oldest human lineages. Their languages are characterized by click consonants.
+
+The Khoisan peoples were historically hunter-gatherers and pastoralists in Southern Africa before Bantu expansion.`
+      },
+      {
+        heading: 'Other Notable Groups',
+        content: `MADAGASCAR:
+• Merina - Central highlands, largest group (Austronesian origin)
+• Betsileo - Southern highlands
+• Betsimisaraka - Eastern coast
+• Sakalava - Western coast
+Note: Malagasy people have mixed Austronesian (Southeast Asian) and Bantu African ancestry
+
+SUDAN:
+• Nubians - Northern Sudan, along Nile (Nilo-Saharan)
+• Beja - Eastern Sudan (Cushitic)
+• Fur - Western Sudan/Darfur (Nilo-Saharan)
+
+CHAD:
+• Sara - Southern Chad (Nilo-Saharan)
+• Arabs - Northern and Central Chad
+• Kanembu - Western Chad`
+      },
+      {
+        heading: 'Understanding the Classifications',
+        content: `These classifications are primarily linguistic and do not always reflect cultural or political identities. Many African peoples have:
+
+• Mixed heritage from multiple groups
+• Complex migration histories
+• Multilingual capabilities
+• Shared cultural practices across ethnic boundaries
+• Modern national identities that transcend ethnic classifications
+
+The Bantu expansion (beginning around 1000 BCE) was one of the most significant migration events in human history, spreading Bantu languages and agricultural practices across much of sub-Saharan Africa.
+
+Note: Population figures and classifications continue to evolve, and many communities have complex, overlapping identities. This overview provides a general framework for understanding Africa's ethnic diversity.`
+      }
+    ]
+  },
   
   'kikuyu-people': {
     title: 'Kikuyu People',
@@ -852,6 +1113,190 @@ These stars featured in stories and were believed to influence events on earth. 
 • The ability to read the sky was a mark of wisdom
 
 This integration of practical astronomy with spiritual understanding reflects the Kikuyu worldview that saw no separation between the material and spiritual dimensions of existence.`
+      }
+    ]
+  },
+
+  'kikuyu-history': {
+    title: 'Kikuyu History',
+    subtitle: 'Origins, Migrations, and Historical Development',
+    lastUpdated: 'February 2026',
+    contributors: ['Historians', 'Archaeologists', 'Oral Historians'],
+    content: `The history of the Kikuyu people spans centuries, from their origins as part of the great Bantu migration to their development into Kenya's largest ethnic group. Their history is preserved through oral traditions, archaeological evidence, and written records from the colonial period.`,
+    sections: [
+      {
+        heading: 'Origins and Bantu Migration',
+        content: `According to oral tradition, the first Kikuyu was Gĩkũyũ, placed by Ngai (God) on Mount Kenya. Historical evidence suggests the Kikuyu are part of the larger Bantu expansion that spread across Africa.
+
+The Kikuyu likely arrived in Central Kenya around the 16th-17th centuries CE, migrating from the Congo Basin region over many generations. They settled around Mount Kenya (Kirinyaga), gradually expanding into fertile highlands and interacting with Cushitic and Nilotic neighbors.`
+      },
+      {
+        heading: 'Pre-Colonial Society',
+        content: `Before colonization, Kikuyu society was:
+• Decentralized governance through councils of elders (kĩama)
+• Age-set system providing social organization
+• Mixed agriculture: cultivation and livestock keeping
+• Extensive trade networks with neighbors
+• Strong cultural and spiritual traditions
+
+The Kikuyu were known for their agricultural skill, industriousness, and ability to adapt and innovate.`
+      },
+      {
+        heading: 'Colonial Period and Mau Mau',
+        content: `British colonization (1895-1963) devastated Kikuyu society through land alienation and oppression. The Kikuyu lost the most fertile lands to European settlers, creating profound grievances.
+
+This led to the Mau Mau uprising (1952-1960), an armed resistance against colonial rule. Though militarily defeated, the Mau Mau made British rule untenable and accelerated independence.`
+      },
+      {
+        heading: 'Post-Independence',
+        content: `After independence (1963), the Kikuyu played significant roles in Kenya's development. However, land issues remain contentious, and the community continues to balance traditional identity with modern Kenyan nationhood.`
+      }
+    ]
+  },
+
+  'folklore-legends': {
+    title: 'Folklore & Legends',
+    subtitle: 'Stories that Shaped a People',
+    lastUpdated: 'February 2026',
+    contributors: ['Storytellers', 'Cultural Anthropologists', 'Elders'],
+    content: `Kikuyu folklore is rich with wisdom and cultural values, featuring clever animals, heroic ancestors, and supernatural beings. These stories teach important lessons about life, morality, and the Kikuyu worldview.`,
+    sections: [
+      {
+        heading: 'The Story of Gĩkũyũ and Mũmbi',
+        content: `Ngai called Gĩkũyũ to Mount Kenya's summit and gave him all the land below. At Mũkũrũwe wa Gathanga, Gĩkũyũ found his wife Mũmbi. They had nine daughters who became matriarchs of the nine Kikuyu clans. This foundational legend explains the origins of the Kikuyu people and their connection to the land.`
+      },
+      {
+        heading: 'Animal Trickster Tales',
+        content: `Stories featuring the clever hare (Mbura) outwitting stronger animals teach wisdom, caution, and critical thinking. These tales entertained while conveying moral lessons about trust, greed, and using intelligence over brute force.`
+      },
+      {
+        heading: 'Legends of Great Leaders',
+        content: `Stories of prophets like Waiyaki wa Hinga, who foresaw colonial arrival and advised adaptation while preserving identity, keep alive the memory of ancestors and their wisdom in facing change.`
+      }
+    ]
+  },
+
+  'land-practices': {
+    title: 'Land & Agriculture',
+    subtitle: 'Traditional Farming and Land Management',
+    lastUpdated: 'February 2026',
+    contributors: ['Agricultural Historians', 'Environmental Scientists', 'Elders'],
+    content: `Land (thĩĩnĩ) is central to Kikuyu identity. The phrase "kũgũrũ kwa thĩĩnĩ" (belly of the land) reflects that land sustains life like a mother. Traditional agriculture was sophisticated, sustainable, and deeply integrated with spiritual life.`,
+    sections: [
+      {
+        heading: 'Traditional Land Tenure',
+        content: `Kikuyu land tenure operated at multiple levels:
+• Families had hereditary rights to land (gĩthaka)
+• Ultimate ownership rested with the clan
+• Land could be bought, sold, inherited, or gifted
+• Women could own land
+• Sacred groves protected by taboos
+• Communal grazing lands
+
+This system ensured access for all while maintaining community bonds.`
+      },
+      {
+        heading: 'Agricultural Practices',
+        content: `The Kikuyu practiced mixed farming:
+
+Main Crops: Millet, sorghum, beans, sweet potatoes, bananas
+Techniques: Crop rotation, intercropping, fallowing
+Calendar: Planting synchronized with rains and star observations
+Tools: Digging stick, hoe, harvesting knife
+
+Livestock: Goats (most important), sheep, cattle, chickens - used for ceremonies, trade, and wealth storage.`
+      },
+      {
+        heading: 'Environmental Management',
+        content: `Traditional practices ensured sustainability:
+• Sacred groves protected forests
+• Water sources kept pure through taboos
+• Soil conservation through terracing and mulching
+• Sustainable harvesting of wild resources
+• Wildlife management through customs
+
+These practices maintained ecological balance for future generations.`
+      },
+      {
+        heading: 'Spiritual Relationship with Land',
+        content: `Land had deep spiritual significance:
+• Mount Kenya (Kirinyaga) - home of Ngai
+• Ancestors buried on their land, becoming part of it
+• Rituals at sacred sites for rain and harvest
+• Land connects living and dead in spiritual community
+
+Colonial land alienation was not just economic loss but spiritual violation - the primary cause of Mau Mau resistance.`
+      }
+    ]
+  },
+
+  'colonial-resistance': {
+    title: 'Colonial Resistance',
+    subtitle: 'The Struggle for Freedom and Land',
+    lastUpdated: 'February 2026',
+    contributors: ['Historians', 'Freedom Fighters', 'Researchers'],
+    content: `The Kikuyu resistance to British colonialism represents one of Africa's most significant anti-colonial struggles. From peaceful petitions to armed rebellion, the Kikuyu fought for their land, culture, and dignity, contributing to Kenya's independence.`,
+    sections: [
+      {
+        heading: 'Early Resistance (1895-1920s)',
+        content: `Initial responses included:
+• Armed resistance crushed by British military superiority
+• Waiyaki wa Hinga's diplomatic attempts ended in betrayal
+• Punitive expeditions against resistant communities
+• By 1920s, struggle shifted to political and legal channels`
+      },
+      {
+        heading: 'Political Movements (1920s-1940s)',
+        content: `Organized political resistance emerged:
+
+Kikuyu Central Association (KCA):
+• Led by educated Kikuyu including Jomo Kenyatta
+• Demanded land return, better wages, representation
+• Published newspaper Mũigwithania
+• Sent delegations to London
+• Banned in 1940, went underground
+
+Harry Thuku Protest (1922):
+• Mass protest against his arrest
+• Police killed 21-25 protesters
+• Early example of resistance brutality`
+      },
+      {
+        heading: 'Mau Mau War (1952-1960)',
+        content: `Armed rebellion against British rule:
+
+The Uprising:
+• Guerrilla warfare from forests
+• Leaders: Dedan Kimathi, Stanley Mathenge, General China
+• Oath movement binding resisters
+• Forest fighters vs. British and loyalists
+
+British Response:
+• State of Emergency declared
+• Over 100,000 detained in camps
+• Systematic torture and abuse
+• Forced villagization
+• Casualties: 30,000-50,000+ Kikuyu killed
+
+The Mau Mau accelerated path to independence despite military defeat.`
+      },
+      {
+        heading: 'Path to Independence',
+        content: `Mau Mau resistance made colonial rule untenable:
+• Political reforms forced in 1950s-60s
+• Jomo Kenyatta released (1961), became leader
+• Independence achieved December 12, 1963
+• Land issues remained partially unresolved
+• Mau Mau fighters felt betrayed by incomplete justice`
+      },
+      {
+        heading: 'Historical Recognition',
+        content: `Mau Mau legacy continues to evolve:
+• Initially stigmatized, now recognized as heroes
+• British apology and compensation (2013) for torture
+• Monuments, museums, and commemorations
+• Ongoing debates about violence, loyalty, and justice
+• Symbol of courage and sacrifice for freedom`
       }
     ]
   }
